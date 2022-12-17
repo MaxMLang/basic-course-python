@@ -3,7 +3,7 @@ This is a Python course Niklas Walter and I created together. It should introduc
 <img src="https://static.wixstatic.com/media/64484b_829e39cd0bf4469aa86afb21b28c7e90~mv2.png" width="250" style="float: left;">
 
 Hello everyone,
-we are very happy to have you join our first Python Beginner course next Saturday (May 15, 2021).
+we are very happy to have you join our first Python Beginner course.
 
 Before we start on Thursday, everyone should have the following programs installed:
 * **Python**
@@ -22,7 +22,7 @@ https://www.anaconda.com/products/individual
 
 If you have any problems with the installation, don't worry, we will be at the meeting one hour before the course to help you.
 
-### Daily schedule
+### Example daily schedule
 
 * 09:00 - 10:00 Help with installation/bug fixes 
 * 10:00 - 12:30 Python Basics, Introduction to Numpy Package 
